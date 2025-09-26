@@ -7,7 +7,7 @@ View the [demo here](https://demo.magic-portfolio.com).
 
 # **Getting started**
 
-Editing README.md to create a pull request which eventually should trigger a deployment on Appwrite 
+Editing README.md to create a pull request which eventually should trigger a deployment on Appwrite - edit 2
 
 Magic Portfolio was built with [Once UI](https://once-ui.com) for [Next.js](https://nextjs.org). It requires Node.js v18.17+.
 
