@@ -4,7 +4,7 @@ View the [demo here](https://demo.magic-portfolio.com).
 
 ![Magic Portfolio](public/images/cover.png)
 
-Updating README - Edit 1
+Updating README - Edit 2
 
 # **Getting started**
 
